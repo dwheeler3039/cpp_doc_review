@@ -1,2 +1,4 @@
 # cpp_doc_review
-a repo to work through cpp docs for me
+a repo to work through cpp docs
+
+leveraging cppreference.com
